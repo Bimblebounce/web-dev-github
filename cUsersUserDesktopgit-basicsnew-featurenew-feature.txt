@@ -1,0 +1,11 @@
+[33mcommit ad4b55437b2da5818d6be5f86b8340f629676ec8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature[m[33m, [m[1;32mmain[m[33m)[m
+Author: Ben Pendleton <benapendleton@hotmail.com>
+Date:   Mon Feb 24 16:20:04 2025 +0000
+
+    changed test.txt and added second-commit.txt
+
+[33mcommit ba70cb11ed31321a439e03ab59076bcb9d8fbf44[m
+Author: Ben Pendleton <benapendleton@hotmail.com>
+Date:   Mon Feb 24 16:13:54 2025 +0000
+
+    addedtest.txt file
